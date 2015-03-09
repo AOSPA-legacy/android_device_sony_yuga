@@ -19,7 +19,7 @@
   },
   {
     "remote": "github",
-    "repository": "CyanogenMod/android_device_sony_common",
+    "repository": "SuperHanss/android_device_sony_common",
     "target_path": "device/sony/common",
     "revision": "cm-12.0"
   },
